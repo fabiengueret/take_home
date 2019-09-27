@@ -1,7 +1,11 @@
-# take_home
+# take_home challenge
 
-# allow yourself around 2 hours for this test
+Please allow yourself around 2 hours for this test
 
-# this repository consists of a seed Jupyter notebooks to modify and data files
+This repository consists of
+* a seed Jupyter notebooks
+* 6+1 data files
 
-# fork or duplicate this repository then modify it before committing/sending your answer
+Fork this repository
+
+Create a feature branch and open a pull request against master
